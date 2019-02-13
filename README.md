@@ -14,3 +14,4 @@ Application created using React, GraphQL, and MongoDB to rate and comment on bee
 * Weather API to show weather at brewery 
 * Add brewery to favourite list 
 * Validations 
+* Google Maps/Leaflet or ArcMap SDK integration 
